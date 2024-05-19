@@ -23,5 +23,5 @@ const parent = React.createElement(
     React.createElement("h1", {}, "hello world")
   )
 );
-
+<div>hello world</div>;
 root.render(parent);
