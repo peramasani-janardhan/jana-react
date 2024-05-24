@@ -33,7 +33,7 @@
 77C:\Users\peramasani janardhan\Desktop\namaste-react\node_modules\svgo\LICENSE133606060713205957 0
 71C:\Users\peramasani janardhan\Desktop\namaste-react\node_modules\@babel133606060702231247 1
 131C:\Users\peramasani janardhan\Desktop\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeComments.js133606060749006697 0
-58C:\Users\peramasani janardhan\Desktop\namaste-react\App.js133609523140280349 0
+58C:\Users\peramasani janardhan\Desktop\namaste-react\App.js133609528422008234 0
 96C:\Users\peramasani janardhan\Desktop\namaste-react\node_modules\@parcel\transformer-svg\LICENSE133606060724249459 0
 87C:\Users\peramasani janardhan\Desktop\namaste-react\node_modules\source-map\lib\util.js133606060731877204 0
 117C:\Users\peramasani janardhan\Desktop\namaste-react\node_modules\scheduler\umd\scheduler-unstable_mock.development.js133606092847910206 0
@@ -54,7 +54,7 @@
 122C:\Users\peramasani janardhan\Desktop\namaste-react\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\index.js133606060715809201 0
 82C:\Users\peramasani janardhan\Desktop\namaste-react\node_modules\tslib\LICENSE.txt133606060731703239 0
 112C:\Users\peramasani janardhan\Desktop\namaste-react\node_modules\caniuse-lite\data\features\input-placeholder.js133606060784023575 0
-62C:\Users\peramasani janardhan\Desktop\namaste-react\index.html133606095416951454 0
+62C:\Users\peramasani janardhan\Desktop\namaste-react\index.html133609527715392156 0
 118C:\Users\peramasani janardhan\Desktop\namaste-react\node_modules\csso\node_modules\css-tree\lib\syntax\pseudo\index.js133606060771077147 0
 107C:\Users\peramasani janardhan\Desktop\namaste-react\node_modules\entities\lib\generated\decode-data-html.js133606060716528015 0
 106C:\Users\peramasani janardhan\Desktop\namaste-react\node_modules\caniuse-lite\data\features\textcontent.js133606060792868975 0
